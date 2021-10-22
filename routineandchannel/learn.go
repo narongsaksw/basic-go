@@ -1,0 +1,5 @@
+package routineandchannel
+
+func Learn() {
+	
+}
